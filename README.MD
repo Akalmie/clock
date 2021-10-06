@@ -7,6 +7,6 @@
 - It has the date of the year.
 - Includes a light and dark theme.
 
-![Clock Dark Mode](images/darkmode.png)
+![Clock Dark Mode]([images/darkmode.png](https://gitlab.com/Akalmie/clock/blob/main/images/darkmode.png?raw=true))
 ![Clock Light Mode](images/lightmode.png)
 
