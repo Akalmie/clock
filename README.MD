@@ -7,6 +7,6 @@
 - It has the date of the year.
 - Includes a light and dark theme.
 
-![Clock ui](images/darkmode.png)
-![Clock ui](images/lightmode.png)
+![Clock Dark Mode](images/darkmode.png)
+![Clock Light Mode](images/lightmode.png)
 
