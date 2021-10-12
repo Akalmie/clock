@@ -8,5 +8,5 @@
 - Includes a light and dark theme.
 
 ![Clock Dark Mode](images/darkmode.PNG)
-![Clock Light Mode](images/lightmode.png)
+![Clock Light Mode](images/lightmode.PNG)
 
